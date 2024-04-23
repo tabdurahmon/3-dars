@@ -1,3 +1,19 @@
+// let son = Number(prompt("son kiriting"));
+
+// if (son > 0) {
+//   alert(son + 1);
+// } else {
+//   alert(son);
+// }
+
+// let son = Number(prompt("son kiriting"));
+
+// if (son > 0) {
+//   alert(son + 1);
+// } else {
+//   alert(son-2);
+// }
+
 // let son = prompt("son kiriting");
 
 // if (0 < son) {
